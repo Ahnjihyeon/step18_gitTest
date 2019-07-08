@@ -6,4 +6,6 @@ public class dao {
 	String lunch="콩국수";
 
 	int abc=10;
+	
+	String dinner="집에가자 ";
 }
