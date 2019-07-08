@@ -12,5 +12,6 @@ public class dao {
 	String dinner="집에가자 ";
 	
 	boolean result=false;
+	boolean lunch2=true;
 
 }
