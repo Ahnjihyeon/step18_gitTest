@@ -10,5 +10,7 @@ public class dao {
 	int c=5;  
 	
 	String dinner="집에가자 ";
+	
+	boolean result=false;
 
 }
